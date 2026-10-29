@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(33, 2, 2);
+    line-height: 20px;
+    padding-top: 100px;
+
+    
+
+}
+h1{
+    color: blanchedalmond;
+    font-size:45px;
+    line-height: 1.2;
+    
+}
+h2{
+    color: rgb(250, 189, 97);
+    font-size: 30px;
+}
+p{
+    color: bisque;
+    font-family:'Gill Sans', 'Gill Sans MT',
+     Calibri, 'Trebuchet MS', sans-serif;
+     
+}
+.name{
+    text-align: center;
+}
+.hello {
+    text-align: center;
+    /* margin-right: 400px; */
+}
+
+.btn {
+    display: block;
+    width: fit-content;
+    margin: 20px auto 0;
+    padding: 12px 25px;
+    background-color: #F5EBDD;
+    color: #2B1D18;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+#about {
+    text-align: center;
+    margin-top: 200px;
+    padding: 20px;
+}
+
+#about h2 {
+    font-size: 40px;
+}
+
+#about p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+
+
+#skills {
+    text-align: center;
+    display:grid;
+    gap:12px;
+    gap: 20px;
+    max-width: 250px;
+    width:80%;
+    margin: 0 auto;
+
+}
+
+.skill {
+    background-color: bisque;
+    color: #2B1D18;
+    padding: 18px 18px;
+    border-radius:10px ;
+    font-size: 20px;
+    font-weight: 600;
+
+
+}
+h2{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    
+}
+* {
+    box-sizing: border-box;
+}
